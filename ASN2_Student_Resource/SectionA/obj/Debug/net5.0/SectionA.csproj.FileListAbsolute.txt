@@ -1,0 +1,16 @@
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.AssemblyReference.cache
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.AssemblyInfoInputs.cache
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.AssemblyInfo.cs
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.CoreCompileInputs.cache
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.exe
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.deps.json
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.runtimeconfig.json
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.runtimeconfig.dev.json
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.dll
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\ref\SectionA.dll
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.pdb
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.dll
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\ref\SectionA.dll
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.pdb
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.genruntimeconfig.cache
