@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "SectionB/1.0.0": {
-        "dependencies": {
-          "SectionA": "1.0.0"
-        },
-        "runtime": {
-          "SectionB.dll": {}
-        }
-      },
       "SectionA/1.0.0": {
         "runtime": {
           "SectionA.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "SectionB/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "SectionA/1.0.0": {
       "type": "project",
       "serviceable": false,

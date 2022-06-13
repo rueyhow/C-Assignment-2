@@ -14,3 +14,10 @@ D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\obj\
 D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\obj\Debug\net5.0\ref\SectionB.dll
 D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\obj\Debug\net5.0\SectionB.pdb
 D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\obj\Debug\net5.0\SectionB.genruntimeconfig.cache
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\Debug\net5.0\SectionA.deps.json
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\Debug\net5.0\SectionA.runtimeconfig.json
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\Debug\net5.0\SectionA.runtimeconfig.dev.json
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\Debug\net5.0\SectionA.exe
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\Debug\net5.0\SectionA.dll
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\Debug\net5.0\SectionA.pdb
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\obj\Debug\net5.0\SectionB.csproj.CopyComplete

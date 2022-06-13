@@ -3,28 +3,27 @@ using System.Text;
 
 namespace SectionA{
 
-
     public class Employee{
 
-        string NRIC {get;set;}
+        public string NRIC {get;set;}
 
-        string Fullname {get;set;}
+        public string Fullname {get;set;}
 
-        string Salutation {get;set;}
+        public string Salutation {get;set;}
 
-        DateTime StartDate {get;set;}
+        public DateTime StartDate {get;set;}
 
-        string Designation {get;set;}
+        public string Designation {get;set;}
 
-        string Department {get;set;}
+        public string Department {get;set;}
 
-        string MobileNo {get;set;}
+        public string MobileNo {get;set;}
 
-        string HireType {get;set;}
+        public string HireType {get;set;}
 
-        double salary {get;set;}
+        public double salary {get;set;}
 
-        double MonthlyPayout  {get;set;}
+        public double MonthlyPayout  {get;set;}
 
         public Employee(string NRIC , string Fullname , string Salutation , DateTime StartDate , string Designation ,string Department ,  string MobileNo , string HireType , double salary){
             this.NRIC = NRIC;
@@ -57,6 +56,10 @@ namespace SectionA{
 
         public string ITD(){
             return $"NRIC : {NRIC} , Full Name : {Fullname} , Start Date : {StartDate} , Department : {Department} , Mobile Number : {MobileNo}";
+        }
+
+        public string All(){
+            return $"{NRIC} , {Fullname} , {Salutation} , {StartDate} , {Designation} , {Department} , {MobileNo} , {HireType} , {salary} , {MonthlyPayout}";
         }
 
     }
