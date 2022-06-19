@@ -1,8 +1,8 @@
 using System;
 using System.Text;
+using RGiesecke.DllExport;
 
 namespace SectionA{
-
     public class Employee{
 
         public string NRIC {get;set;}
@@ -59,7 +59,7 @@ namespace SectionA{
         }
 
         public string All(){
-            return $"{NRIC} , {Fullname} , {Salutation} , {StartDate} , {Designation} , {Department} , {MobileNo} , {HireType} , {salary} , {MonthlyPayout}";
+            return $"{NRIC} | {Fullname} | {Salutation} | {StartDate} | {Designation} | {Department} | {MobileNo} | {HireType} | {salary} | {MonthlyPayout}";
         }
 
     }

@@ -10,7 +10,7 @@ namespace SectionA
     {
         public delegate void DelegateAll(string msg);
 
-
+        [DllExport("read", CallingConvention = CallingConvention.Cdecl)]
         public static List<Employee> readHRMasterList()
         {
             List<string> allLinesText = System.IO.File.ReadAllLines(@"D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\HRMasterlist.txt").ToList();

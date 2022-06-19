@@ -6,6 +6,7 @@ using static SectionA.Employee;
 using System.Text;
 using System.Diagnostics;
 using System.IO;
+using System.Threading.Tasks;
 namespace SectionB
 {
     public enum HireTypes
@@ -43,19 +44,21 @@ namespace SectionB
     }
     
 
-    public static void updateMonthlyPayoutToMasterList(){
+    public static List<SectionA.Employee> updateMonthlyPayoutToMasterList(List<SectionA.Employee> datafile){
 
-        List<SectionA.Employee> HRMasterlist = processPayroll(SectionA.SectA.readHRMasterList());
+        List<SectionA.Employee> HRMasterlist = processPayroll(datafile);
          if (File.Exists(@"HRMasterlistB.txt") == false){
             StreamWriter writer = new StreamWriter(@"HRMasterlistB.txt");
                 for(int i = 0 ; i < HRMasterlist.Count ; i++){
                     writer.WriteLine(HRMasterlist[i].All());  
                 }
             writer.Close();
+            return datafile;
         }
         else
         {
             Console.WriteLine("File Already Exists");
+            return datafile;
         }
     }
 

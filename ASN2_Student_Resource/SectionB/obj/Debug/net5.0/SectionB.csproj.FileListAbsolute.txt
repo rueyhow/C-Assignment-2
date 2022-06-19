@@ -21,3 +21,6 @@ D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\
 D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\Debug\net5.0\SectionA.dll
 D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\Debug\net5.0\SectionA.pdb
 D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\obj\Debug\net5.0\SectionB.csproj.CopyComplete
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionB\bin\Debug\net5.0\Microsoft.Threading.Tasks.dll

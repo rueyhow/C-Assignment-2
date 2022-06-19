@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "SOkFFIMqHoxJacR1y8WRb7PuAKdAUmmpEK2XrlL+CnU9/ZtTfMTQQGbeq18OwtXzcG7Ylx0MC8lAKw8HR14OfA==",
+  "dgSpecHash": "2gaLYW4AwmZXhS9Z9nY0iLdK5Jj+yFbTMYbfC8Y6fCiXx4QE0kd4kLvhUO7GFnIKRdJfs4mdanjWw7t3B9m1ow==",
   "success": true,
   "projectFilePath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\unmanagedexports\\1.2.7\\unmanagedexports.1.2.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'UnmanagedExports 1.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "UnmanagedExports",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
