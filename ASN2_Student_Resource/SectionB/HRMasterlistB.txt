@@ -1,26 +1,26 @@
-S1234567A | Jan Lee | Ms | 5/10/1990 12:00:00 am | Software Architect | IT Department | 98785432 | PartTime | 3500 | 1750
-S1234567B | Feb Tan | Mr | 10/12/1991 12:00:00 am | Corporate Recruiter | HR Corporate Admin | 98766432 | PartTime | 1500 | 750
-S1234567C | Mark Lim | Mr | 15/7/1992 12:00:00 am | Benefit Specialist | HR Corporate Admin | 98265432 | PartTime | 2900 | 1450
-S1234567D | Apr Tan | Ms | 20/1/1996 12:00:00 am | Payroll Administrator | HR Corporate Admin | 91765432 | FullTime | 1600 | 1600
-S1234567E | May Ng | Ms | 25/5/1994 12:00:00 am | Training Coordinator | HR Corporate Admin | 98767432 | Hourly | 1200 | 300
-S1234567F | Juno Chua | Mr | 30/9/1997 12:00:00 am | Compensation Manager | HR Corporate Admin | 98760432 | FullTime | 4000 | 4000
-S1234567G | Jul Wang | Mr | 2/3/1996 12:00:00 am | Technical Recruiter | HR Corporate Admin | 98765932 | PartTime | 1200 | 600
-S1234567H | Aug Lau | Mr | 4/11/1997 12:00:00 am | HR Consultant | HR Corporate Admin | 98765032 | PartTime | 2000 | 1000
-S1234567I | Sep Yeo | Mr | 6/8/1998 12:00:00 am | Software Engineer | IT Department | 98765434 | FullTime | 3000 | 3000
-S1234567J | Octo Chua | Mr | 8/4/1999 12:00:00 am | Technical Lead | IT Department | 92765432 | FullTime | 4000 | 4000
-S1234567K | Nova Ng | Ms | 10/3/1980 12:00:00 am | Team Lead | IT Department | 90760432 | FullTime | 3000 | 3000
-S1234567L | Dessy Chow | Ms | 5/1/1998 12:00:00 am | Project Lead | IT Department | 95760432 | FullTime | 3500 | 3500
-S1234567M | Jack Mar | Mr | 14/6/1999 12:00:00 am | Project Manager | IT Department | 98766632 | FullTime | 4500 | 4500
-S1234567N | Anne Chan | Ms | 16/4/1983 12:00:00 am | Procurement Assistant | Procurement Department | 90065432 | Hourly | 1000 | 250
-S1234567O | Claire Tan | Ms | 17/8/1984 12:00:00 am | Procurement Officer | Procurement Department | 98760032 | FullTime | 1000 | 1000
-S1234567P | Jade Lau | Ms | 18/10/1996 12:00:00 am | Purchasing Associate | Procurement Department | 91711432 | FullTime | 1100 | 1100
-S1234567Q | Wyne Yeo | Ms | 19/8/1986 12:00:00 am | Purchasing Clerk | Procurement Department | 98733433 | Hourly | 1200 | 300
-S1234567R | Craig Ng | Mr | 23/11/1987 12:00:00 am | Facilities Manager | Procurement Department | 90088432 | PartTime | 2000 | 1000
-S1234567S | Hugh Chan | Mr | 25/5/1988 12:00:00 am | Operations Manager | Procurement Department | 88765432 | FullTime | 2500 | 2500
-S1234567T | Kent Teo | Mr | 27/11/1989 12:00:00 am | Store Manager | Procurement Department | 80765432 | FullTime | 2000 | 2000
-S1234567U | Sam Goh | Mr | 29/3/1990 12:00:00 am | Production Planner | Procurement Department | 98765321 | Hourly | 1500 | 375
-S1234567V | Zack Aw | Mr | 13/12/1991 12:00:00 am | Warehouse Clerk | Procurement Department | 98321432 | Hourly | 1000 | 250
-S1234567W | Ava Lim | Ms | 7/11/1992 12:00:00 am | Procurement Specialist | Procurement Department | 91235432 | PartTime | 2800 | 1400
-S1234567X | Eva Chow | Ms | 9/12/1997 12:00:00 am | Materials Director | Procurement Department | 92225432 | FullTime | 6500 | 6500
-S1234567Y | Lea Law | Ms | 11/7/1994 12:00:00 am | Corporate Recruiter | HR Corporate Admin | 94445432 | PartTime | 1600 | 800
-S1234567Z | Ian Neo | Ms | 21/9/1995 12:00:00 am | HR Coordinator | HR Corporate Admin | 90005432 | Hourly | 1200 | 300
+S1234567A|Jan Lee|Ms|05/10/90|Software Architect|IT Department|98785432|PartTime|3500|1750
+S1234567B|Feb Tan|Mr|10/12/91|Corporate Recruiter|HR Corporate Admin|98766432|PartTime|1500|750
+S1234567C|Mark Lim|Mr|15/07/92|Benefit Specialist|HR Corporate Admin|98265432|PartTime|2900|1450
+S1234567D|Apr Tan|Ms|20/01/96|Payroll Administrator|HR Corporate Admin|91765432|FullTime|1600|1600
+S1234567E|May Ng|Ms|25/05/94|Training Coordinator|HR Corporate Admin|98767432|Hourly|1200|300
+S1234567F|Juno Chua|Mr|30/09/97|Compensation Manager|HR Corporate Admin|98760432|FullTime|4000|4000
+S1234567G|Jul Wang|Mr|02/03/96|Technical Recruiter|HR Corporate Admin|98765932|PartTime|1200|600
+S1234567H|Aug Lau|Mr|04/11/97|HR Consultant|HR Corporate Admin|98765032|PartTime|2000|1000
+S1234567I|Sep Yeo|Mr|06/08/98|Software Engineer|IT Department|98765434|FullTime|3000|3000
+S1234567J|Octo Chua|Mr|08/04/99|Technical Lead|IT Department|92765432|FullTime|4000|4000
+S1234567K|Nova Ng|Ms|10/03/80|Team Lead|IT Department|90760432|FullTime|3000|3000
+S1234567L|Dessy Chow|Ms|05/01/98|Project Lead|IT Department|95760432|FullTime|3500|3500
+S1234567M|Jack Mar|Mr|14/06/99|Project Manager|IT Department|98766632|FullTime|4500|4500
+S1234567N|Anne Chan|Ms|16/04/83|Procurement Assistant|Procurement Department|90065432|Hourly|1000|250
+S1234567O|Claire Tan|Ms|17/08/84|Procurement Officer|Procurement Department|98760032|FullTime|1000|1000
+S1234567P|Jade Lau|Ms|18/10/96|Purchasing Associate|Procurement Department|91711432|FullTime|1100|1100
+S1234567Q|Wyne Yeo|Ms|19/08/86|Purchasing Clerk|Procurement Department|98733433|Hourly|1200|300
+S1234567R|Craig Ng|Mr|23/11/87|Facilities Manager|Procurement Department|90088432|PartTime|2000|1000
+S1234567S|Hugh Chan|Mr|25/05/88|Operations Manager|Procurement Department|88765432|FullTime|2500|2500
+S1234567T|Kent Teo|Mr|27/11/89|Store Manager|Procurement Department|80765432|FullTime|2000|2000
+S1234567U|Sam Goh|Mr|29/03/90|Production Planner|Procurement Department|98765321|Hourly|1500|375
+S1234567V|Zack Aw|Mr|13/12/91|Warehouse Clerk|Procurement Department|98321432|Hourly|1000|250
+S1234567W|Ava Lim|Ms|07/11/92|Procurement Specialist|Procurement Department|91235432|PartTime|2800|1400
+S1234567X|Eva Chow|Ms|09/12/97|Materials Director|Procurement Department|92225432|FullTime|6500|6500
+S1234567Y|Lea Law|Ms|11/07/94|Corporate Recruiter|HR Corporate Admin|94445432|PartTime|1600|800
+S1234567Z|Ian Neo|Ms|21/09/95|HR Coordinator|HR Corporate Admin|90005432|Hourly|1200|300

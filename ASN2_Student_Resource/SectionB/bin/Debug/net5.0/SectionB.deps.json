@@ -40,7 +40,18 @@
         }
       },
       "Microsoft.Bcl.Build/1.0.14": {},
+      "UnmanagedExports/1.2.7": {
+        "runtime": {
+          "lib/net/RGiesecke.DllExport.Metadata.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "SectionA/1.0.0": {
+        "dependencies": {
+          "UnmanagedExports": "1.2.7"
+        },
         "runtime": {
           "SectionA.dll": {}
         }
@@ -73,6 +84,13 @@
       "sha512": "sha512-cDLKSvNvRa519hplsbSoYqO69TjdDIhfjtKUM0g20/nVROoWsGav9KCI9HtnGjLmdV1+TcUUDhbotcllibjPEA==",
       "path": "microsoft.bcl.build/1.0.14",
       "hashPath": "microsoft.bcl.build.1.0.14.nupkg.sha512"
+    },
+    "UnmanagedExports/1.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bPIbzFaAj4AFxjHGFGPrYnUSCyIWJMkT/LFuiphWdpUbO2L9fP68W/1SP9cHCAxgiekV+kFNbybA2VvRo8PYIQ==",
+      "path": "unmanagedexports/1.2.7",
+      "hashPath": "unmanagedexports.1.2.7.nupkg.sha512"
     },
     "SectionA/1.0.0": {
       "type": "project",

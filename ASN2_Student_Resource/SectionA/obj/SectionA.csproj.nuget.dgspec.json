@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {}
+    "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {}
   },
   "projects": {
-    "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
+    "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
+        "projectUniqueName": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
         "projectName": "SectionA",
-        "projectPath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\obj\\",
+        "projectPath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
+        "packagesPath": "C:\\Users\\saber\\.nuget\\packages\\",
+        "outputPath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\saber\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

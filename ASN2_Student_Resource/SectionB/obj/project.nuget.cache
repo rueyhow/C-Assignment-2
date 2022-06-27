@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LpI+9RhLoF4vB77pHrqNTJWSBGClW3sTIeMnZ9/e9nD4K6ZTzxERH51PthasMXrd36PgeGsVbUy/IVwVWaySvA==",
+  "dgSpecHash": "jG6uo4/Dv9yf3TuGi/ZMFY64/IjTzGyeho+r1blLkUD3w7xTTHT7EvkpshKtNIFH6irJvdpb+kuop7yfvT+uZg==",
   "success": true,
-  "projectFilePath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
+  "projectFilePath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl\\1.1.8\\microsoft.bcl.1.1.8.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.async\\1.0.168\\microsoft.bcl.async.1.0.168.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512"
+    "C:\\Users\\saber\\.nuget\\packages\\microsoft.bcl\\1.1.8\\microsoft.bcl.1.1.8.nupkg.sha512",
+    "C:\\Users\\saber\\.nuget\\packages\\microsoft.bcl.async\\1.0.168\\microsoft.bcl.async.1.0.168.nupkg.sha512",
+    "C:\\Users\\saber\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",
+    "C:\\Users\\saber\\.nuget\\packages\\unmanagedexports\\1.2.7\\unmanagedexports.1.2.7.nupkg.sha512"
   ],
   "logs": [
     {
@@ -25,6 +26,16 @@
       "warningLevel": 1,
       "message": "Package 'Microsoft.Bcl.Async 1.0.168' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Bcl.Async",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'UnmanagedExports 1.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "UnmanagedExports",
       "targetGraphs": [
         "net5.0"
       ]

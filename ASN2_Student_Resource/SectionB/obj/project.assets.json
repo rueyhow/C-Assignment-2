@@ -33,9 +33,21 @@
       "Microsoft.Bcl.Build/1.0.14": {
         "type": "package"
       },
+      "UnmanagedExports/1.2.7": {
+        "type": "package",
+        "compile": {
+          "lib/net/RGiesecke.DllExport.Metadata.dll": {}
+        },
+        "runtime": {
+          "lib/net/RGiesecke.DllExport.Metadata.dll": {}
+        }
+      },
       "SectionA/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "UnmanagedExports": "1.2.7"
+        },
         "compile": {
           "bin/placeholder/SectionA.dll": {}
         },
@@ -224,6 +236,29 @@
         "tools/Uninstall.ps1"
       ]
     },
+    "UnmanagedExports/1.2.7": {
+      "sha512": "bPIbzFaAj4AFxjHGFGPrYnUSCyIWJMkT/LFuiphWdpUbO2L9fP68W/1SP9cHCAxgiekV+kFNbybA2VvRo8PYIQ==",
+      "type": "package",
+      "path": "unmanagedexports/1.2.7",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/RGiesecke.DllExport.Metadata.dll",
+        "tools/DllExportCmdLets.psm1",
+        "tools/Mono.Cecil.dll",
+        "tools/RGiesecke.DllExport.MSBuild.dll",
+        "tools/RGiesecke.DllExport.MSBuild.pdb",
+        "tools/RGiesecke.DllExport.dll",
+        "tools/RGiesecke.DllExport.pdb",
+        "tools/RGiesecke.DllExport.targets",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/uninstall.ps1",
+        "unmanagedexports.1.2.7.nupkg.sha512",
+        "unmanagedexports.nuspec"
+      ]
+    },
     "SectionA/1.0.0": {
       "type": "project",
       "path": "../SectionA/SectionA.csproj",
@@ -237,19 +272,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\saber\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
+      "projectUniqueName": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
       "projectName": "SectionB",
-      "projectPath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\obj\\",
+      "projectPath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
+      "packagesPath": "C:\\Users\\saber\\.nuget\\packages\\",
+      "outputPath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\saber\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -261,8 +296,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
-              "projectPath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj"
+            "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
+              "projectPath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj"
             }
           }
         }
@@ -297,7 +332,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -318,6 +353,16 @@
       "warningLevel": 1,
       "message": "Package 'Microsoft.Bcl.Async 1.0.168' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Bcl.Async",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'UnmanagedExports 1.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "UnmanagedExports",
       "targetGraphs": [
         "net5.0"
       ]

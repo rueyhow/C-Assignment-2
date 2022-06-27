@@ -1,0 +1,26 @@
+Salutation : Ms , Full Name : Jan Lee , Mobile Number : 98785432 , Designation : Software Architect , Department : IT Department
+Salutation : Mr , Full Name : Feb Tan , Mobile Number : 98766432 , Designation : Corporate Recruiter , Department : HR Corporate Admin
+Salutation : Mr , Full Name : Mark Lim , Mobile Number : 98265432 , Designation : Benefit Specialist , Department : HR Corporate Admin
+Salutation : Ms , Full Name : Apr Tan , Mobile Number : 91765432 , Designation : Payroll Administrator , Department : HR Corporate Admin
+Salutation : Ms , Full Name : May Ng , Mobile Number : 98767432 , Designation : Training Coordinator , Department : HR Corporate Admin
+Salutation : Mr , Full Name : Juno Chua , Mobile Number : 98760432 , Designation : Compensation Manager , Department : HR Corporate Admin
+Salutation : Mr , Full Name : Jul Wang , Mobile Number : 98765932 , Designation : Technical Recruiter , Department : HR Corporate Admin
+Salutation : Mr , Full Name : Aug Lau , Mobile Number : 98765032 , Designation : HR Consultant , Department : HR Corporate Admin
+Salutation : Mr , Full Name : Sep Yeo , Mobile Number : 98765434 , Designation : Software Engineer , Department : IT Department
+Salutation : Mr , Full Name : Octo Chua , Mobile Number : 92765432 , Designation : Technical Lead , Department : IT Department
+Salutation : Ms , Full Name : Nova Ng , Mobile Number : 90760432 , Designation : Team Lead , Department : IT Department
+Salutation : Ms , Full Name : Dessy Chow , Mobile Number : 95760432 , Designation : Project Lead , Department : IT Department
+Salutation : Mr , Full Name : Jack Mar , Mobile Number : 98766632 , Designation : Project Manager , Department : IT Department
+Salutation : Ms , Full Name : Anne Chan , Mobile Number : 90065432 , Designation : Procurement Assistant , Department : Procurement Department
+Salutation : Ms , Full Name : Claire Tan , Mobile Number : 98760032 , Designation : Procurement Officer , Department : Procurement Department
+Salutation : Ms , Full Name : Jade Lau , Mobile Number : 91711432 , Designation : Purchasing Associate , Department : Procurement Department
+Salutation : Ms , Full Name : Wyne Yeo , Mobile Number : 98733433 , Designation : Purchasing Clerk , Department : Procurement Department
+Salutation : Mr , Full Name : Craig Ng , Mobile Number : 90088432 , Designation : Facilities Manager , Department : Procurement Department
+Salutation : Mr , Full Name : Hugh Chan , Mobile Number : 88765432 , Designation : Operations Manager , Department : Procurement Department
+Salutation : Mr , Full Name : Kent Teo , Mobile Number : 80765432 , Designation : Store Manager , Department : Procurement Department
+Salutation : Mr , Full Name : Sam Goh , Mobile Number : 98765321 , Designation : Production Planner , Department : Procurement Department
+Salutation : Mr , Full Name : Zack Aw , Mobile Number : 98321432 , Designation : Warehouse Clerk , Department : Procurement Department
+Salutation : Ms , Full Name : Ava Lim , Mobile Number : 91235432 , Designation : Procurement Specialist , Department : Procurement Department
+Salutation : Ms , Full Name : Eva Chow , Mobile Number : 92225432 , Designation : Materials Director , Department : Procurement Department
+Salutation : Ms , Full Name : Lea Law , Mobile Number : 94445432 , Designation : Corporate Recruiter , Department : HR Corporate Admin
+Salutation : Ms , Full Name : Ian Neo , Mobile Number : 90005432 , Designation : HR Coordinator , Department : HR Corporate Admin

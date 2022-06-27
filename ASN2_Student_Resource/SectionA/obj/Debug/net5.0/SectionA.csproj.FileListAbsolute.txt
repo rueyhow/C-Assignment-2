@@ -14,3 +14,21 @@ D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\
 D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\ref\SectionA.dll
 D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.pdb
 D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.genruntimeconfig.cache
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.AssemblyReference.cache
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.GeneratedMSBuildEditorConfig.editorconfig
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.AssemblyInfoInputs.cache
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.AssemblyInfo.cs
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.CoreCompileInputs.cache
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.dll
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\ref\SectionA.dll
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.pdb
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.exe
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.deps.json
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.runtimeconfig.json
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.runtimeconfig.dev.json
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.dll
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\ref\SectionA.dll
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.pdb
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\RGiesecke.DllExport.Metadata.dll
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.CopyComplete
+D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.genruntimeconfig.cache

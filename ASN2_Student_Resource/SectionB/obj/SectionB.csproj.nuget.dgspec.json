@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj": {}
+    "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj": {}
   },
   "projects": {
-    "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
+    "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
+        "projectUniqueName": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
         "projectName": "SectionA",
-        "projectPath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\obj\\",
+        "projectPath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
+        "packagesPath": "C:\\Users\\saber\\.nuget\\packages\\",
+        "outputPath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\saber\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "UnmanagedExports": {
+              "target": "Package",
+              "version": "[1.2.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -52,21 +58,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj": {
+    "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
+        "projectUniqueName": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
         "projectName": "SectionB",
-        "projectPath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\obj\\",
+        "projectPath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
+        "packagesPath": "C:\\Users\\saber\\.nuget\\packages\\",
+        "outputPath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\saber\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -78,8 +84,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
-                "projectPath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj"
+              "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
+                "projectPath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj"
               }
             }
           }
@@ -114,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

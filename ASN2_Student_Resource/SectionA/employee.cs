@@ -55,11 +55,11 @@ namespace SectionA{
         }
 
         public string ITD(){
-            return $"NRIC : {NRIC} , Full Name : {Fullname} , Start Date : {StartDate} , Department : {Department} , Mobile Number : {MobileNo}";
+            return $"NRIC : {NRIC} , Full Name : {Fullname} , Start Date : {StartDate.ToString("dd/mm/yy")} , Department : {Department} , Mobile Number : {MobileNo}";
         }
 
         public string All(){
-            return $"{NRIC} | {Fullname} | {Salutation} | {StartDate} | {Designation} | {Department} | {MobileNo} | {HireType} | {salary} | {MonthlyPayout}";
+        return $"{NRIC}|{Fullname}|{Salutation}|{StartDate.ToString("dd/MM/yy")}|{Designation}|{Department}|{MobileNo}|{HireType}|{salary}|{MonthlyPayout}";
         }
 
     }
