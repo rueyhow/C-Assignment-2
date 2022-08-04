@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bT1xuCDDHfVrAcffCpvTSTnuUXDvIN00v37k5+ebB7XhMAxw0QY9wHDvhIOJn/yEDshuy2Q3AdRxAGQc5Bnh+g==",
+  "dgSpecHash": "2gaLYW4AwmZXhS9Z9nY0iLdK5Jj+yFbTMYbfC8Y6fCiXx4QE0kd4kLvhUO7GFnIKRdJfs4mdanjWw7t3B9m1ow==",
   "success": true,
-  "projectFilePath": "D:\\sch stuff\\y2\\AVP\\assignment2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
+  "projectFilePath": "D:\\Advanced Prog\\Assignment 2\\C-Assignment-2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\saber\\.nuget\\packages\\unmanagedexports\\1.2.7\\unmanagedexports.1.2.7.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\unmanagedexports\\1.2.7\\unmanagedexports.1.2.7.nupkg.sha512"
   ],
   "logs": [
     {

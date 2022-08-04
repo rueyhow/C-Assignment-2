@@ -32,3 +32,5 @@ D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\bi
 D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\RGiesecke.DllExport.Metadata.dll
 D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.CopyComplete
 D:\sch stuff\y2\AVP\assignment2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.genruntimeconfig.cache
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\RGiesecke.DllExport.Metadata.dll
+D:\Advanced Prog\Assignment 2\C-Assignment-2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.CopyComplete

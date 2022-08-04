@@ -1,0 +1,26 @@
+NRIC : S1234567A , Full Name : Jan Lee , Start Date : 05/10/1990 , Department : IT Department , Mobile Number : 98785432
+NRIC : S1234567B , Full Name : Feb Tan , Start Date : 10/12/1991 , Department : HR Corporate Admin , Mobile Number : 98766432
+NRIC : S1234567C , Full Name : Mark Lim , Start Date : 15/07/1992 , Department : HR Corporate Admin , Mobile Number : 98265432
+NRIC : S1234567D , Full Name : Apr Tan , Start Date : 20/01/1996 , Department : HR Corporate Admin , Mobile Number : 91765432
+NRIC : S1234567E , Full Name : May Ng , Start Date : 25/05/1994 , Department : HR Corporate Admin , Mobile Number : 98767432
+NRIC : S1234567F , Full Name : Juno Chua , Start Date : 30/09/1997 , Department : HR Corporate Admin , Mobile Number : 98760432
+NRIC : S1234567G , Full Name : Jul Wang , Start Date : 02/03/1996 , Department : HR Corporate Admin , Mobile Number : 98765932
+NRIC : S1234567H , Full Name : Aug Lau , Start Date : 04/11/1997 , Department : HR Corporate Admin , Mobile Number : 98765032
+NRIC : S1234567I , Full Name : Sep Yeo , Start Date : 06/08/1998 , Department : IT Department , Mobile Number : 98765434
+NRIC : S1234567J , Full Name : Octo Chua , Start Date : 08/04/1999 , Department : IT Department , Mobile Number : 92765432
+NRIC : S1234567K , Full Name : Nova Ng , Start Date : 10/03/1980 , Department : IT Department , Mobile Number : 90760432
+NRIC : S1234567L , Full Name : Dessy Chow , Start Date : 05/01/1998 , Department : IT Department , Mobile Number : 95760432
+NRIC : S1234567M , Full Name : Jack Mar , Start Date : 14/06/1999 , Department : IT Department , Mobile Number : 98766632
+NRIC : S1234567N , Full Name : Anne Chan , Start Date : 16/04/1983 , Department : Procurement Department , Mobile Number : 90065432
+NRIC : S1234567O , Full Name : Claire Tan , Start Date : 17/08/1984 , Department : Procurement Department , Mobile Number : 98760032
+NRIC : S1234567P , Full Name : Jade Lau , Start Date : 18/10/1996 , Department : Procurement Department , Mobile Number : 91711432
+NRIC : S1234567Q , Full Name : Wyne Yeo , Start Date : 19/08/1986 , Department : Procurement Department , Mobile Number : 98733433
+NRIC : S1234567R , Full Name : Craig Ng , Start Date : 23/11/1987 , Department : Procurement Department , Mobile Number : 90088432
+NRIC : S1234567S , Full Name : Hugh Chan , Start Date : 25/05/1988 , Department : Procurement Department , Mobile Number : 88765432
+NRIC : S1234567T , Full Name : Kent Teo , Start Date : 27/11/1989 , Department : Procurement Department , Mobile Number : 80765432
+NRIC : S1234567U , Full Name : Sam Goh , Start Date : 29/03/1990 , Department : Procurement Department , Mobile Number : 98765321
+NRIC : S1234567V , Full Name : Zack Aw , Start Date : 13/12/1991 , Department : Procurement Department , Mobile Number : 98321432
+NRIC : S1234567W , Full Name : Ava Lim , Start Date : 07/11/1992 , Department : Procurement Department , Mobile Number : 91235432
+NRIC : S1234567X , Full Name : Eva Chow , Start Date : 09/12/1997 , Department : Procurement Department , Mobile Number : 92225432
+NRIC : S1234567Y , Full Name : Lea Law , Start Date : 11/07/1994 , Department : HR Corporate Admin , Mobile Number : 94445432
+NRIC : S1234567Z , Full Name : Ian Neo , Start Date : 21/09/1995 , Department : HR Corporate Admin , Mobile Number : 90005432
